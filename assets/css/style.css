@@ -29,6 +29,7 @@ body {
     border-color: #605770;
     border-style: solid;
     border-width: 20px;
+    color: #f7c4a5;
 }
 
 h2 {
@@ -67,4 +68,12 @@ a:hover {
 
 .card {
     background-color: #605770;
+}
+
+.logo-img {
+    max-width: 100%;
+}
+
+.list-group-item {
+    background-color: #f7c4a5;
 }
